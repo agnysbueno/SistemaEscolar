@@ -1,0 +1,20 @@
+{
+  "name": "controle-escolar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "escopoFuncionalidades.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnysbueno/controle-escolar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnysbueno/controle-escolar/issues"
+  },
+  "homepage": "https://github.com/agnysbueno/controle-escolar#readme"
+}
